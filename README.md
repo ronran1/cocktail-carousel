@@ -7,7 +7,7 @@ This is a simple carousel that takes in an input, which is your favorite type of
 An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
-Launch the website from the provided github hosted link!
+Launch the website from the provided [github hosted link](https://ronran1.github.io/cocktail-carousel/)!
 ### Dependencies
 
 * Javascript on
